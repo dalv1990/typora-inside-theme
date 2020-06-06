@@ -21,6 +21,8 @@
 
 # Screenshot
 
-![](https://cdn.jsdelivr.net/gh/FishionYu/Rayyu-sPic@master/img/transJJYTdA.png)
+![](https://cdn.jsdelivr.net/gh/FishionYu/Rayyu-sPic@master/img/englishshowcase2.jpg)
 
-![](https://cdn.jsdelivr.net/gh/FishionYu/Rayyu-sPic@master/img/trans1aGQwy.png)
+![](https://cdn.jsdelivr.net/gh/FishionYu/Rayyu-sPic@master/img/englishshowcase.jpg)
+
+![](https://cdn.jsdelivr.net/gh/FishionYu/Rayyu-sPic@master/img/chineseshowcase.jpg)
